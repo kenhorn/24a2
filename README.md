@@ -17,5 +17,15 @@ Please see our [website for more information, examples, and a tutorial](https://
 ## Games built with 24a2
 
 - [Space invaders](https://incoherency.co.uk/24invaders/), by [@jes](https://incoherency.co.uk/blog/)
+- [Palindrome Colors](https://andrewnc.github.io/games/pal_game.html), by [@andrewnc](https://andrewnc.github.io/)
+- [Samegame](https://kentbrew.neocities.org/samegame/), by [@kentbrew](https://github.com/kentbrew/samegame/)
+- [You Killed a Bear](https://craigmbooth.com/projects/ykab/), by [@craigmbooth](https://craigmbooth.com)
+- [Maze Craze](http://maze-craze-24a2.surge.sh/), by [@shaneriley](https://github.com/shaneriley/maze_craze_24a2)
+- [24Rogue](https://www.raza6.fr/24Rogue/), by [@raza6](https://github.com/raza6/24rogue)
+- [Paint](https://bernardini687.github.io/paint/index.html), by [@bernardini687](https://github.com/bernardini687)
+- [24MadRush](https://keatonfs.github.io/24.../), by [@keatonfs](https://github.com/keatonfs/24MadRush)
+- [Helter Shelter](https://tolbish.github.io/helter-shelter), by @tolbish
+- [Tic-Tac-Toe](https://r3pwn.github.io/24a2-tic-tac-toe/), by [@r3pwn](https://github.com/r3pwn)
+- [Conway's Game of Life](https://micahcantor.xyz/game-of-life-24a2/), by @[micahcantor](https://github.com/micahcantor)
 
 If you've built something using 24a2 please let us know! Feel free to open an Issue or Pull Request to add it to this list.
